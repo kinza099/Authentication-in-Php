@@ -26,7 +26,7 @@ A simple and secure PHP-based authentication system that allows users to registe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/php-authentication-system.git
+   git clone https://github.com/kinza099/Authentication-in-Php.git
    cd php-authentication-system
    ```
 
