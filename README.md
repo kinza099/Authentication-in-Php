@@ -124,6 +124,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Author
-Kinza
+## Contact
+
+For any queries or suggestions, please contact:
+- **Email:** kinzapython@gmail.com
+
 
